@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Expressify v1.0</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- Example strings.xml -->
+    <!-- Example strings.xml -->
+    <string name="happiness_description">Happiness, also known as joy, is a positive emotional state characterized by feelings of contentment, satisfaction, and well-being.</string>
+    <string name="happiness_tips">- Engage in activities that bring you joy and fulfillment.\n- Practice gratitude and appreciate the positive aspects of your life.\n- Cultivate strong social connections and spend time with loved ones.</string>
+
+    <string name="sadness_description">Sadness is an emotional state characterized by feelings of sorrow, grief, and melancholy. It is often triggered by loss, disappointment, or unmet expectations.</string>
+    <string name="sadness_tips">- Allow yourself to acknowledge and express your feelings of sadness.\n- Seek support from friends, family, or a therapist to process your emotions.\n- Engage in self-care activities such as exercise, meditation, or hobbies that bring you comfort.</string>
+
+    <string name="anger_description">Anger is a strong emotional response characterized by feelings of displeasure, frustration, or hostility. It often arises in response to perceived threats, injustices, or conflicts.</string>
+    <string name="anger_tips">- Practice deep breathing or relaxation techniques to manage anger in the moment.\n- Communicate assertively and express your feelings calmly rather than reacting impulsively.\n- Take time to cool off before addressing the source of your anger.</string>
+
+    <string name="fear_description">Fear is an emotional reaction to perceived threats, danger, or uncertainty. It triggers the body\'s fight-or-flight response and can vary in intensity from mild apprehension to extreme panic.</string>
+
+    <string name="fear_tips">- Challenge irrational thoughts and assess the actual level of threat in fearful situations.\n- Gradually expose yourself to feared situations or objects to reduce fear responses over time (exposure therapy).\n- Practice relaxation techniques such as deep breathing, progressive muscle relaxation, or mindfulness to manage physical symptoms of fear.</string>
+
+    <string name="surprise_description">Surprise is an emotional response to unexpected events or information. It is characterized by a brief moment of astonishment or disbelief followed by curiosity or excitement.</string>
+    <string name="surprise_tips">- Embrace spontaneity and novelty as opportunities for growth and learning.\n- Stay open-minded and flexible in your response to unexpected events.\n- Use surprises as a chance to explore new perspectives or possibilities.</string>
+
+</resources>
