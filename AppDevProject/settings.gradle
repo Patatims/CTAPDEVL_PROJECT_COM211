@@ -1,3 +1,0 @@
-include ':app'
-rootProject.name = "ImagePro"
-include ':openCVLibrary3413'
